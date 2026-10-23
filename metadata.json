@@ -1,0 +1,6 @@
+{
+  "name": "SENTINAL",
+  "description": "Brand Banao. Duniya Hilao. Business intelligence, Business DNA analysis, Sentinalese AI marketing growth workspace, and client project management platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
